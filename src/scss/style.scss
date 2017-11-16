@@ -71,3 +71,18 @@ body {
         font-size: $icon-size;
     }
 }
+
+.btn-outline-light {
+    &:hover {
+        color: #333;
+    }
+}
+
+.copyright {
+    font-size: 11px;
+    color: #7e7e7e;
+}
+
+.footer-brand {
+    color: #969696;
+}
